@@ -1,3 +1,5 @@
+![Profile views](https://gpvc.arturio.dev/at-tawlib)
+
 - 👋 Hi, I’m Abdul-Fatahu Hardi
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Shell, C and Javascript
