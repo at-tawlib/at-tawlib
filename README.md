@@ -2,7 +2,7 @@
 ---
 ### :woman_technologist: About Me :
 - 👋 Hi, I’m Abdul-Fatahu Hardi
-- 👀 I’m interested in Java, Python, Shell
+- 👀 I’m interested in Java, Python, Flutter, JavaScript, Express, C, React and Shell
 - 🌱 I’m currently learning Shell, C and Javascript
 - I'm currently a software engineering student of ALX cohort 9
 - I have two apps released on the google play store. Check them out
