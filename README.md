@@ -2,13 +2,14 @@
 ---
 ### :woman_technologist: About Me :
 - 👋 Hi, I’m Abdul-Fatahu Hardi
-- 👀 I’m interested in Java, Python, Flutter, JavaScript, Express, C, React and Shell
-- 🌱 I’m currently learning Shell, C and Javascript
-- I'm currently a software engineering student of ALX cohort 9
-- I have two apps released on the google play store. Check them out
-> https://play.google.com/store/apps/details?id=com.dagbani.dagbanidictionary <br>
->https://play.google.com/store/apps/details?id=com.dagbani.quran
-- 💞️ I’m looking to collaborate on android Java projects and Python projects
+- Medical Laboratory Scientist turned Software Engineer
+- Graduate of ALX Software Engineering program (Cohort 9)
+- Frontend Developer | Backend Developer |
+- Proficient in Java, Android (Java), JavaScript, Python, React, Flutter, C, Shell, Node.js
+- Creator of two Android apps on Google Play. Check them out.
+> [Dagbani - English](https://play.google.com/store/apps/details?id=com.dagbani.dagbanidictionary) <br>
+>[Dagbani Quran](https://play.google.com/store/apps/details?id=com.dagbani.quran)
+
 - 📫 How to reach me a.fatahu95@gmail.com
 
 ---
