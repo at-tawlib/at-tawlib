@@ -5,7 +5,7 @@
 - Medical Laboratory Scientist turned Software Engineer
 - Graduate of ALX Software Engineering program (Cohort 9)
 - Frontend Developer | Backend Developer |
-- Proficient in Java, Android (Java), Kotlin, JavaScript, Python, React, Flutter, C, Shell, Node.js
+- Proficient in JavaScript, Java, Android (Java), Kotlin, Python, React, Flutter, C, Shell, Node.js
 - Creator of two Android apps on Google Play. Check them out.
 > [Dagbani - English](https://play.google.com/store/apps/details?id=com.dagbani.dagbanidictionary) <br>
 >[Dagbani Quran](https://play.google.com/store/apps/details?id=com.dagbani.quran)
