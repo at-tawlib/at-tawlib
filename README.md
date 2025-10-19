@@ -11,7 +11,7 @@
 >[Dagbani Quran](https://play.google.com/store/apps/details?id=com.dagbani.quran)
 
 - Check out my portfolio  [https://at-tawlib.github.io/](https://at-tawlib.github.io/)
-- 📫 How to reach me a.fatahu95@gmail.com
+- 📫 How to reach me a.fatahu95@gmail.com, azindodev@gmail.com
 
 ---
 
